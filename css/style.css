@@ -1,6 +1,6 @@
 @keyframes mainViewAnim{
-    from {top:50%;}
-    to {top:initial;}
+    from {position:absolute;}
+    to {position:initial;}
 }
 
 html{
