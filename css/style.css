@@ -1,6 +1,9 @@
 html{
     background-color:#FFB6C1;
 }
+footer{
+    background-color:white;
+}
 #mainHeading{
     margin:auto;
     display:block;
@@ -23,9 +26,6 @@ html{
     font-weight:600;
     text-decoration:none;
     color:white;
-}
-#navBar a:hover{
-    border: 2px double pink:
 }
 #logo{
     margin:auto;
@@ -53,12 +53,9 @@ html{
     color:white;
     background-color:black;
 }
-#felinex, #felinex-devices{
-    margin:auto;
-    display:block;
-    text-align:center;
-}
-#felinex a, #felinex-devices a{
-    font-style:normal;
-    font-weight:800;
+#footer img{
+    padding-left:1.5em;
+    padding-right:1.5em;
+    width:10px;
+    height:10px;
 }
