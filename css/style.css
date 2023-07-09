@@ -1,3 +1,8 @@
+@keyframes mainViewAnim{
+    from {position:absolute;transform:translate(-50%,-50%);}
+    to {position:initial;transform:initial;}
+}
+
 html{
     background-color:#F3CFC6;
 }
