@@ -73,7 +73,7 @@ html{
     width:100%;
     height:1.25em;
     background-color:black;
-    font-size:calc(inherit/2);
+    font-size:calc(100em/2);
     color:white;
 }
 #footer_bt_lt{
