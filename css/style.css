@@ -33,12 +33,10 @@ html{
     width:30%;
     height:25%;
 }
-#meow {
+#meow{
     margin:auto;
     display:block;
     text-align:center;
-}
-#meow button{
     width:35px;
     height:20px;
     background-color:black;
