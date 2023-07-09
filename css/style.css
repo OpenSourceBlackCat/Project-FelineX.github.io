@@ -33,10 +33,26 @@ html{
     text-align:center;
 }
 #logo img{
-    width:50vw;
-    height:50vh;
+    width:30%;
+    height:25%;
 }
-
+#meow {
+    margin:auto;
+    display:block;
+    text-align:center;
+}
+#meow btn{
+    width:35px;
+    height:20px;
+    background-color:black;
+    color:black;
+}
+#meow btn:hover{
+    width:40px;
+    height:25px;
+    color:white;
+    background-color:black;
+}
 #felinex, #felinex-devices{
     margin:auto;
     display:block;
