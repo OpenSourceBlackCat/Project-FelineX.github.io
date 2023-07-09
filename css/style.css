@@ -6,9 +6,9 @@
 #navBar{
     margin-top: 1.5em;
     margin-bottom: 1.5em;
-    display:block;
-    text-align: center;
     width:100%;
+    display:inline-block;
+    text-align: center;
     border-bottom:1px double  black;
     border-radius:2px;
 }
