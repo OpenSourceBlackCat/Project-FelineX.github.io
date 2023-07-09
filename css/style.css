@@ -1,3 +1,6 @@
+.html{
+    background-color:lightpink;
+}
 #mainHeading{
     margin:auto;
     display:block;
@@ -22,8 +25,14 @@
     color:white;
 }
 #navBar a:hover{
-    border: 1px double white:
+    border: 2px double pink:
 }
+#logo{
+    margin:auto;
+    display:flex;
+    text-align:center;
+}
+
 #felinex, #felinex-devices{
     margin:auto;
     display:block;
