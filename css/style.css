@@ -1,5 +1,5 @@
 html{
-    background-color:lightpink;
+    background-color:#F3CFC6;
 }
 #mainHeading{
     margin:auto;
@@ -59,7 +59,7 @@ html{
     bottom:0;
     left:0;
     text-align:center;
-    background-color:pink;
+    background-color:#F8C8DC;
     color:white;
 }
 #footer img{
@@ -77,4 +77,6 @@ html{
 #footer_bt_lt{
     width:100%;
     height:0.30em;
+    font-size:inherit;
+    color:white;
 }
