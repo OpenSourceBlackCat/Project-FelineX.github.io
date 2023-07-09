@@ -1,6 +1,6 @@
 #mainHeading{
     margin:auto;
-    display; block;
+    display:block;
     text-align:center;
 }
 #navBar{
@@ -9,12 +9,13 @@
     width:100%;
     display:inline-block;
     text-align:center;
-    border-bottom:1px double  black;
+    border-bottom:1px double black;
     border-radius:2px;
 }
 #navBar a{
-    margin-left:1.5em;
-    margin-right:1.5em;
+    /*margin-left:1.5em;
+    margin-right:1.5em;*/
+    margin:auto;
     font-size:12px;
     font-style:normal;
     font-weight:600;
