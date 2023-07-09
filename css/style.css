@@ -11,10 +11,10 @@
     border-radius:2px;
 }
 #navBar a{
-    /*margin-left:1.5em;
-    margin-right:1.5em;*/
-    margin-top:1.5em;
-    margin-bottom:1.5em;
+    margin-left:1.5em;
+    margin-right:1.5em;
+    padding-top:1.5em;
+    padding-bottom:1.5em;
     font-size:12px;
     font-style:normal;
     font-weight:600;
