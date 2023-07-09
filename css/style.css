@@ -6,8 +6,7 @@
 #navBar{
     margin:auto;
     display:block;
-    align-items:center;
-    justify-content:center;
+    text-align: center;
     width:100%;
     border:1px solid black;
     border-radius:2px;
