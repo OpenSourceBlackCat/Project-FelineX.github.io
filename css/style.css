@@ -1,4 +1,4 @@
-.html{
+html{
     background-color:#FFB6C1;
 }
 #mainHeading{
@@ -28,11 +28,13 @@
     border: 2px double pink:
 }
 #logo{
-    width:50%;
-    height:50%;
     margin:auto;
     display:block;
     text-align:center;
+}
+#logo img{
+    width:50vw;
+    height:50vh;
 }
 
 #felinex, #felinex-devices{
