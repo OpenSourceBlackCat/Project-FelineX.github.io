@@ -6,6 +6,7 @@
 #navBar{
     display:block;
     margin:auto;
+    text-align:center;
     width:100%;
     border:1px solid black;
     border-radius:2px;
