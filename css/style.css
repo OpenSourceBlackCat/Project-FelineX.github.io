@@ -4,7 +4,8 @@
     text-align:center;
 }
 #navBar{
-    margin:auto;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
     display:block;
     text-align: center;
     width:100%;
