@@ -24,6 +24,9 @@ html{
     text-decoration:none;
     color:white;
 }
+#navBar a::hover{
+    font-weight:800;
+}
 #logo{
     margin:auto;
     display:block;
@@ -37,18 +40,18 @@ html{
     margin:auto;
     display:block;
     text-align:center;
-    width:50px;
-    height:75px;
-    background-color:black;
-    color:black;
+    background-color:grey;
+    color:white;
+    width:100px;
+    height:30px
     font-size:10px;
     font-style:inline;
 }
-#meow button:hover{
-    width:60px;
-    height:85px;
+#meow::hover{
+    width:120px;
+    height:40;
     color:white;
-    background-color:black;
+    background-color:grey;
 }
 #footer{
     position:fixed;
