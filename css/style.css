@@ -11,3 +11,11 @@
     border:2px solid black;
     border-radius:10px;
 }
+#navBar a{
+    font-size:12px;
+    font-weight: 600;
+}
+#navBar a:hover{
+    font-size:15px;
+    font-weight:800;
+}
