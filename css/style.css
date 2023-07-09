@@ -1,5 +1,5 @@
 html{
-    background-color:#FFB6C1;
+    background-color:lightpink;
 }
 #mainHeading{
     margin:auto;
@@ -62,6 +62,6 @@ html{
 #footer img{
     padding-left:1.5em;
     padding-right:1.5em;
-    width:10px;
-    height:10px;
+    width:40px;
+    height:40px;
 }
