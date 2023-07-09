@@ -8,6 +8,7 @@
     text-align:center;
     width:100%;
     border-bottom:1px double black;
+    background-color:black;
 }
 #navBar a{
     margin-left:1.5em;
@@ -18,10 +19,10 @@
     font-style:normal;
     font-weight:600;
     text-decoration:none;
+    color:white;
 }
 #navBar a:hover{
-    font-size:14px;
-    font-weight:800;
+    border: 1em double white:
 }
 #felinex, #felinex-devices{
     margin:auto;
