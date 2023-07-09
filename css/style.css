@@ -1,5 +1,5 @@
 .html{
-    background-color:lightpink;
+    background-color:#FFB6C1;
 }
 #mainHeading{
     margin:auto;
@@ -28,8 +28,10 @@
     border: 2px double pink:
 }
 #logo{
+    width:50%;
+    height:50%;
     margin:auto;
-    display:flex;
+    display:block;
     text-align:center;
 }
 
