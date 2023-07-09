@@ -13,11 +13,12 @@
     border-radius:2px;
 }
 #navBar a{
-    margin-left:2em;
-    margin-right:2em;
+    margin-left:1.5em;
+    margin-right:1.5em;
     font-size:12px;
     font-style:normal;
     font-weight:600;
+    text-decoration:none;
 }
 #navBar a:hover{
     font-size:15px;
