@@ -8,5 +8,5 @@ const uiShift = (btn) => {
     document.getElementById(btn).style="display:none";
 }
 const colorMode = (btn) => {
-    
+    document.getElementById(btn).src = "assets/light.png";
 }
