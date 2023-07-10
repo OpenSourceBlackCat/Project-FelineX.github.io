@@ -10,10 +10,10 @@ const uiShift = (btn) => {
 const colorMode = (img) => {
     if (img.src.includes("dark.png")){
         img.src = "../assets/light.png";
-        document.body.style="filter:invert(100%);";
+        document.body.style="background-color:black;filter:invert(80%);";
     }
     else{
         img.src = "../assets/dark.png";
-        document.body.style="filter:initial;";
+        document.body.style="background-color:initial;filter:none;";
     }
 }
