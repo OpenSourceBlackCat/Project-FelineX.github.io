@@ -11,11 +11,11 @@ const colorMode = (img) => {
     if (img.src.includes("dark.png")){
         img.src = "../assets/light.png";
         img.style="filter:invert(100%);";
-        document.body.style="background-color:black;";
+        document.body.style="background:black;";
     }
     else{
         img.src = "../assets/dark.png";
         img.style="filter:none;";
-        document.body.style="background-color:initial;";
+        document.body.style="background:initial;";
     }
 }
