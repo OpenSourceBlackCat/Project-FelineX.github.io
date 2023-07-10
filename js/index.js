@@ -7,3 +7,6 @@ const uiShift = (btn) => {
     mainView.style="position:initial;transform:initial;";
     document.getElementById(btn).style="display:none";
 }
+const colorMode = (btn) => {
+    
+}
