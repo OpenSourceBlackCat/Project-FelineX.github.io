@@ -10,7 +10,7 @@ const uiShift = (btn) => {
 const colorMode = (img) => {
     var mainImg = document.getElementById(img.id);
     console.log(mainImg);
-    if (mainImg=="dark.png8"){
+    if (mainImg=="dark.png"){
         img.src = "../assets/light.png";
         document.body.style="background-color:black;";
     }
