@@ -32,15 +32,6 @@ html{
 #navBar a::hover{
     font-weight:800;
 }
-#color_mode{
-    margin:auto;
-    display:block;
-    text-align:right;
-}
-#color_mode img{
-    width:40px;
-    height:40px;
-}
 #mainView{
     margin:auto;
     display:block;
