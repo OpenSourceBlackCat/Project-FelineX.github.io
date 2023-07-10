@@ -7,14 +7,15 @@ const uiShift = (btn) => {
     mainView.style="position:initial;transform:initial;";
     document.getElementById(btn).style="display:none;";
 }
-const colorMode = (btn) => {
-    var mainImg = document.getElementById(btn).src;
+const colorMode = (img) => {
+    var mainImg = document.getElementById(img.id);
+    console.log(mainImg);
     if (mainImg=="dark.png8"){
-        mainImg = "../assets/light.png";
+        img.src = "../assets/light.png";
         document.body.style="background-color:black;";
     }
     else{
-        mainImg = "../assets/dark.png";
+        img.src = "../assets/dark.png";
         document.body.style="background-color:initial;";
     }
 }
