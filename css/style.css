@@ -66,8 +66,9 @@ html{
     font-style:inline;
 }
 #meow img{
-    width:30px;
-    height:30px;
+    display:inline-block;
+    width:0.5rem;
+    height:0.5rem;
     text-align:right;
 }
 #meow::hover{
